@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="version">0.2</string>
+    <string name="app_name">Soccer Kid</string>
+    <string name="credits">AndEngine, Antifarea/OpenGameArt.org</string>
+</resources>

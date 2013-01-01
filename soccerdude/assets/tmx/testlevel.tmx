@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tmx/desert.tsx" tilewidth="32" tileheight="32" spacing="3" margin="2">
+  <image source="gfx/desert_tiled.png" width="561" height="561"/>
+  <tile id="0">
+   <properties>
+    <property name="tree" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="tree" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="stone" value="true"/>
+    <property name="bounce" value="true"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="cactus" value="true"/>
+    <property name="bounce" value="true"/>    
+   </properties>
+  </tile>
+  <tile id="49">
+   <properties>
+   <property name="crate" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="52">
+   <properties>
+    <property name="brickwall1" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="53">
+   <properties>
+    <property name="brickwall2" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="54">
+   <properties>
+    <property name="brickwall3" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="55">
+   <properties>
+    <property name="brickwall4" value="true"/>
+   </properties>
+  </tile>
+  <tile id="82">
+   <properties>
+    <property name="sign" value="true"/>
+   </properties>
+  </tile>
+  <tile id="83">
+   <properties>
+    <property name="cone1" value="true"/>
+    <property name="bounce" value="true"/>    
+   </properties>
+  </tile>
+  <tile id="101">
+   <properties>
+    <property name="goalcage" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="117">
+   <properties>
+    <property name="goal" value="true"/>
+   </properties>
+  </tile>
+  <tile id="133">
+   <properties>
+    <property name="goalcage" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="147">
+   <properties>
+    <property name="cone2" value="true"/>
+    <property name="bounce" value="true"/>    
+   </properties>
+  </tile>
+  <tile id="159">
+   <properties>
+    <property name="goalcage" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="175">
+   <properties>
+    <property name="goalcage" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+  <tile id="191">
+   <properties>
+    <property name="goalcage" value="true"/>
+    <property name="wall" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Ground" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC9WYv24TQRDG1857nO5SXRWsSDyIz7xAfIhHsAQNHQUNjas0iZQuDdQ00EKTmgZehTtlP/Hl8+zfOAKKT767Pc/+dmZ2Zu2Fc27xH2iYNE5qJq0j752TGi/LVlMpa861Z9vSe6PxntrCep6LMMZKcfGaOmO9W/98Hm8jc1hzKZ+utaV5G8N2499Xv4MvZ31sbytzWXwx3+nzlfuTV2viVD4rxjnxseIbYmEtPdvKz3vq2Sy+kEJztPSc2WL5qmwLYhy876z4zmO912nCfxa/cqUYMbaUGHP+9YatkRiVk/NE90lO7QoxYm/k1Bmtg6wV2drQO7n11fLjbOvC4C+p26m9V2LrTGz17mFuWTEt4XwM26xW2I7BBb0wVLPGWZsKNtTG0Djbq/WfxjbXBmo2apDFuTdUynfiDvO5hA/+UT48H115XAbPBZXWJtjoxRaudxG+IWPdsDcG+FI2lBH2wDDzde6+VpXsOV5rqlfG8j7FuDPYctasbNgPfAYZ6HMtys3JnSvfr/Cd9mrkCPc0nD0Hl96jjxVybFYn9z3F4ULiO/j3z/0nGJ+C68S4x77gfabn3d6zoX7U8llzj3Jtfc/qa4grc9f4TuuK+gB5n2OL91hpvVImzK1cx87bmhhqTfjbTFYMatleHkmhePJZtGZ9qXlfT3oT0FuDL/QbUPm1XmmdiPHt6fpbhP1DgE/ZusQ4czHrTYb/YnxXk15Nuqb5eX8zg/7eZh89c4fnHeXbu8P53yf4Prr7nvpJ+Gb7+P0e4tM8s+p0yn+XlXyW/zCu8V66h4ybAr7bSj7uA8oX6hFWb0vxfa7gY5/hfwPtNcrM56dQfbHy73sFH8e1pXvu0xgDY4gtp/7F+L5Mejfpq9jk/93ApnyIMfIVcc3hy61/d3StdsEYOn/x+bxz4fNUyn8/Jv0M6FeEL0ehnvHU/fdf1W+yHoK9ABkAAA==
+  </data>
+ </layer>
+</map>
